@@ -14,7 +14,7 @@ Para realizar este reporte se descargaron los siguientes archivos:
 
 ## Herramientas utilizadas
 - `Pycharm`: Entorno de desarollo integrado para Python y Jupyter Notebooks
-- `Python`: Lenguaje de programación con el cual se utilizaron librerías como Pandas para la manipulación de datos y Matplotlib para la visualización de los datos por medio de gráficas
+- `Python`: Lenguaje de programación con el cual se utilizaron librerías como Pandas para la manipulación de datos y Plotly para la visualización de los datos por medio de gráficas
 
 ## 
 
